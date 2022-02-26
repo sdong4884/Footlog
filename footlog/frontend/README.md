@@ -1,4 +1,4 @@
-# footlog-front
+# frontend
 
 ## Project setup
 ```
